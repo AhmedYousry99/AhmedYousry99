@@ -30,7 +30,7 @@ I'm Ahmed Yousry, a dedicated Android app developer currently enrolled in an int
 
 
 ## 📬 Get in Touch
-[![Linkedin](https://www.linkedin.com/in/ahmed-el-hosary/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/ahmed-el-hosary/)
 &nbsp;
 
 
