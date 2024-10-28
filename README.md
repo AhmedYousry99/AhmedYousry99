@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Yousry! 👋
 
-I'm Ahmed Yousry, a dedicated Android app developer currently enrolled in an intensive training program at the Information Technology Institute (ITI). I am honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Android and Flutter applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
+I'm Ahmed Yousry, a dedicated Android app developer and ITI graduate. I am honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Android and Flutter applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
 <br><br>
 [![wakatime](https://wakatime.com/badge/user/b567ceab-6bb5-4641-9648-b96267fe1ad7.svg)](https://wakatime.com/@b567ceab-6bb5-4641-9648-b96267fe1ad7)
 
@@ -9,7 +9,7 @@ I'm Ahmed Yousry, a dedicated Android app developer currently enrolled in an int
 
 ## 🚀 About Me
 
-- 🔭 I'm currently studying Android Development in ITI.
+- 🔭 I'm currently looking for a job opportunity.
 <!-- - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community. -->
@@ -21,7 +21,7 @@ I'm Ahmed Yousry, a dedicated Android app developer currently enrolled in an int
 
 ## 🌱 Currently Exploring
   
-  - 🧑🏻‍💻 Mastering Android Developing
+  - 🧑🏻‍💻 Mastering Android Development
   <!--  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
