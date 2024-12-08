@@ -4,7 +4,7 @@ I'm Ahmed Yousry, a dedicated Android app developer and ITI graduate. I am honin
 <br><br>
 [![wakatime](https://wakatime.com/badge/user/b567ceab-6bb5-4641-9648-b96267fe1ad7.svg)](https://wakatime.com/@b567ceab-6bb5-4641-9648-b96267fe1ad7)
 
-![Ahmed-Yousry's Stats](https://github-readme-stats.vercel.app/api?username=Khaatora&theme=github_dark&show_icons=true&hide_border=true&count_private=true)     
+![Ahmed-Yousry's Stats](https://github-readme-stats.vercel.app/api?username=AhmedYousry99&theme=github_dark&show_icons=true&hide_border=true&count_private=true)     
 
 
 ## 🚀 About Me
@@ -17,7 +17,7 @@ I'm Ahmed Yousry, a dedicated Android app developer and ITI graduate. I am honin
 ## My Technologies
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,php,kotlin,androidstudio,c,cpp,firebase)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaatora&theme=github_dark&layout=compact)](https://github.com/Khaatora)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYousry99&theme=github_dark&layout=compact)](https://github.com/Khaatora)
 
 ## 🌱 Currently Exploring
   
