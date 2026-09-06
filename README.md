@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Yousry! 👋
 
-I'm Ahmed Yousry, a dedicated Android app developer and ITI graduate. I am honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Android and Flutter applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
+I'm Ahmed Yousry, a dedicated Android/Flutter developer and ITI graduate. I am honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Android and Flutter applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
 <br><br>
 [![wakatime](https://wakatime.com/badge/user/b567ceab-6bb5-4641-9648-b96267fe1ad7.svg)](https://wakatime.com/@b567ceab-6bb5-4641-9648-b96267fe1ad7)
 
@@ -21,7 +21,8 @@ I'm Ahmed Yousry, a dedicated Android app developer and ITI graduate. I am honin
 
 ## 🌱 Currently Exploring
   
-  - 🧑🏻‍💻 Mastering Android Development
+  - 🧑🏻‍💻 Mastering Flutter Development
+  - 🧑🏻‍💻 Exploring Spring Framework
   <!--  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
